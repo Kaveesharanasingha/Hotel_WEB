@@ -67,22 +67,22 @@
                 </div> 
                 <div class="col-lg-6 col-md-6 tm-contact-form-input">
                     <div class="form-group">
-                        <input type="text" id="FNAME" class="form-control" placeholder="First Name" />
+                        <input type="text" name="FNAME" class="form-control" placeholder="First Name" />
                     </div>
                     <div class="form-group">
-                        <input type="text" id="LNAME" class="form-control" placeholder="Last Name"  />
+                        <input type="text" name="LNAME" class="form-control" placeholder="Last Name"  />
                     </div>
                     <div class="form-group">
-                        <input type="text" id="UNAME" class="form-control" placeholder="Create Username" />
+                        <input type="text" name="UNAME" class="form-control" placeholder="Create Username" />
                     </div>
                     <div class="form-group">
-                        <input type="email" id="EMAIL" class="form-control" placeholder="contact_email"  />
+                        <input type="email" name="EMAIL" class="form-control" placeholder="contact_email"  />
                     </div>
                     <div class="form-group">
-                        <input type="text" id="ADDRESS" class="form-control" placeholder="Home Address"  />
+                        <input type="text" name="ADDRESS" class="form-control" placeholder="Home Address"  />
                     </div>
                     <div class="form-group">
-                        <input type="text" id="PWORD" class="form-control" placeholder="Create Password" />
+                        <input type="text" name="PWORD" class="form-control" placeholder="Create Password" />
                     </div>
 
                     <div class="form-group">
